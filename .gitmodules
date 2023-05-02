@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/rudrodip/student-management-api
+[submodule "student-profile"]
+	path = student-profile
+	url = https://github.com/rudrodip/Student-Profile
